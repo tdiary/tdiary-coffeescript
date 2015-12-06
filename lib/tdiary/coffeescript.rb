@@ -1,7 +1,7 @@
 require "tdiary/coffeescript/version"
 
 module TDiary
-  module Coffeescript
+  module CoffeeScript
     # Your code goes here...
   end
 end

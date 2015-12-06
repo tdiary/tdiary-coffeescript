@@ -5,7 +5,7 @@ require 'tdiary/coffeescript/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "tdiary-coffeescript"
-  spec.version       = TDiary::Coffeescript::VERSION
+  spec.version       = TDiary::CoffeeScript::VERSION
   spec.authors       = ["SHIBATA Hiroshi"]
   spec.email         = ["hsbt@ruby-lang.org"]
 
