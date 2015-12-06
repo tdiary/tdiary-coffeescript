@@ -1,12 +1,10 @@
-# Tdiary::Coffeescript
+# TDiary::Coffeescript
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/tdiary/coffeescript`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+tdiary-coffeescript is translation helpter for CoffeeScript.
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this line to your tDiary's Gemfile.local:
 
 ```ruby
 gem 'tdiary-coffeescript'
@@ -16,13 +14,9 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install tdiary-coffeescript
-
 ## Usage
 
-TODO: Write usage instructions here
+When you put CoffeeScript under "js" directory. tDiary translate CoffeeScript to JavaScript automatically.
 
 ## Development
 
@@ -32,5 +26,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/tdiary-coffeescript.
-
+Bug reports and pull requests are welcome on GitHub at https://github.com/tdiary/tdiary-coffeescript.
